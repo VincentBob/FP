@@ -1,0 +1,6 @@
+[submodule "Node/apnTestApp/apn"]
+	path = Node/apnTestApp/apn
+	url = http://github.com/argon/node-apn.git
+[submodule "Node/FoodPlazaPage/apn"]
+	path = Node/FoodPlazaPage/apn
+	url = http://github.com/argon/node-apn.git
